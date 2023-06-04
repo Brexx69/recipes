@@ -5,11 +5,12 @@
     <title>Mattia's Recipes</title>
 </head>
 <body>
+    <h1>Mattia's place!</h1>
     <img src="./images/chef.jpeg">
     <p>
         Here you'll find the best recipe according to Mattia!
     </p>
-    <h1>Recipes</h1>
+    <h2>Recipes</h2>
     <a href="./plates/lasagna.html">Lasagna</a>
     <a href="./plates/longisland.html">Long Island</a>
 </body>

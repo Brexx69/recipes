@@ -1,3 +1,2 @@
 # recipes
-A website where you'll find all types of recipes
-(training)
+Having fun with html creating a recipe website.
